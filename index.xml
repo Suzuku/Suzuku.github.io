@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>20021 (甘纬伦） on Hugo tranquilpeak theme</title>
-    <link>https://kiri.github.io/</link>
+    <link>https://Suzku.github.io/</link>
     <description>Recent content in 20021 (甘纬伦） on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Suzku.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018-07-13</title>
-      <link>https://kiri.github.io/07-13/</link>
+      <link>https://Suzku.github.io/07-13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/07-13/</guid>
+      <guid>https://Suzku.github.io/07-13/</guid>
       <description>今日总结  常用的docker国内镜像网站：daocloud 公司私库，连内网速度较快
 docker的基本命令 docker pull 从镜像仓库下载镜像 run [OPTIONS] IMAGE [COMMAND] 创建一个新的容器并运行一个命令 images 查看本地镜像列表，如图所示，通过下面命令： exec在运行的容器中执行命令 -d :分离模式: 在后台运行 -i :即使没有附加也保持STDIN 打开 -t :分配一个伪终端 ps -a 查看已经创建的容器 -s 查看已经启动的容器
   在docker环境下运行mysql实例 作业如下： &amp;gt;* hugo和hugo server.每个人在github上创建一个库(含readme) * 用hugo本地搭一个，hugo官网推荐的模板的博客（主题自选） * 加一个dockerfile，把博客打包成docker镜像（ngnix） * build.sh源码是docker build的（脚本文件）。即运行build.sh在命令行即可查看镜像 * run build.sh * 日报和本周总结</description>
@@ -24,10 +24,10 @@ docker的基本命令 docker pull 从镜像仓库下载镜像 run [OPTIONS] IMAG
     
     <item>
       <title>2018-07-12</title>
-      <link>https://kiri.github.io/07-12/</link>
+      <link>https://Suzku.github.io/07-12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/07-12/</guid>
+      <guid>https://Suzku.github.io/07-12/</guid>
       <description>今日总结 由于仍然没网（怨念），就将就着用手机边查资料，边手打总结昨天考核的课后复习。
  :root选择器是css3中伪类的一个用法，始终匹配根元素，而在HTML里根元素始终是html元素。 再次复习css盒模型和行内元素等的知识（当对一个css元素指定width时，是指定的内容区域宽度）
   ES6复习
@@ -43,10 +43,10 @@ function show(a,b=7) { return a+b; } alert(show(5));//变量默认值为b=7，�
     
     <item>
       <title>2018-07-11</title>
-      <link>https://kiri.github.io/07-11/</link>
+      <link>https://Suzku.github.io/07-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/07-11/</guid>
+      <guid>https://Suzku.github.io/07-11/</guid>
       <description>今日总结 今天下午进行了前端知识的摸底考核，交卷之后发现自己仍有很多不明白的知识点，所以在查资料的过程中总结了以下几点：
   html中 &amp;lt;p标签定义段落,是块状元素，之前我一直以为是行内元素 同时，行内元素无法调整竖直方向的margin和padding 对于css里的伪类有所了解   px像素（Pixel）。相对长度单位。像素px是相对于显示器屏幕分辨率而言的。(引自CSS2.0手册)
 em是相对长度单位。相对于当前对象内文本的字体尺寸。如当前对行内文本的字体尺寸未被人为设置，则相对于浏览器的默认字体尺寸。(引自CSS2.0手册) PX特点
@@ -59,10 +59,10 @@ let cons={ name:&amp;quot;kiri&amp;quot;, sex:&amp;quot;odoko&amp;quot; } let {n
     
     <item>
       <title>2018-07-10</title>
-      <link>https://kiri.github.io/07-10/</link>
+      <link>https://Suzku.github.io/07-10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/07-10/</guid>
+      <guid>https://Suzku.github.io/07-10/</guid>
       <description> 今日总结 今天由于没有网络，所以主要自学了本地的一些资料，效率也不是很高，主要学习了以下几点：
   再次复习了git的基础知识 对Markdown有了基本了解 熟悉了本地的开发环境 安装并配好了vscode/sublime等软件 
 我的github地址   明天应该有网了，希望可以学到更多东西.
@@ -71,119 +71,119 @@ let cons={ name:&amp;quot;kiri&amp;quot;, sex:&amp;quot;odoko&amp;quot; } let {n
     
     <item>
       <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
-      <link>https://kiri.github.io/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
+      <link>https://Suzku.github.io/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
+      <guid>https://Suzku.github.io/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Elements showcase</title>
-      <link>https://kiri.github.io/2015/05/elements-showcase/</link>
+      <link>https://Suzku.github.io/2015/05/elements-showcase/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2015/05/elements-showcase/</guid>
+      <guid>https://Suzku.github.io/2015/05/elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cover image showcase</title>
-      <link>https://kiri.github.io/2015/05/cover-image-showcase/</link>
+      <link>https://Suzku.github.io/2015/05/cover-image-showcase/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2015/05/cover-image-showcase/</guid>
+      <guid>https://Suzku.github.io/2015/05/cover-image-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>highlighted code showcase</title>
-      <link>https://kiri.github.io/2015/03/highlighted-code-showcase/</link>
+      <link>https://Suzku.github.io/2015/03/highlighted-code-showcase/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2015/03/highlighted-code-showcase/</guid>
+      <guid>https://Suzku.github.io/2015/03/highlighted-code-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tags plugins showcase</title>
-      <link>https://kiri.github.io/2014/10/tags-plugins-showcase/</link>
+      <link>https://Suzku.github.io/2014/10/tags-plugins-showcase/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2014/10/tags-plugins-showcase/</guid>
+      <guid>https://Suzku.github.io/2014/10/tags-plugins-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden social section showcase</title>
-      <link>https://kiri.github.io/2014/08/hidden-social-section-showcase/</link>
+      <link>https://Suzku.github.io/2014/08/hidden-social-section-showcase/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2014/08/hidden-social-section-showcase/</guid>
+      <guid>https://Suzku.github.io/2014/08/hidden-social-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden tag section showcase</title>
-      <link>https://kiri.github.io/2014/08/hidden-tag-section-showcase/</link>
+      <link>https://Suzku.github.io/2014/08/hidden-tag-section-showcase/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2014/08/hidden-tag-section-showcase/</guid>
+      <guid>https://Suzku.github.io/2014/08/hidden-tag-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden pagination showcase</title>
-      <link>https://kiri.github.io/2014/08/hidden-pagination-showcase/</link>
+      <link>https://Suzku.github.io/2014/08/hidden-pagination-showcase/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2014/08/hidden-pagination-showcase/</guid>
+      <guid>https://Suzku.github.io/2014/08/hidden-pagination-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Video integrations showcase</title>
-      <link>https://kiri.github.io/2014/08/video-integrations-showcase/</link>
+      <link>https://Suzku.github.io/2014/08/video-integrations-showcase/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2014/08/video-integrations-showcase/</guid>
+      <guid>https://Suzku.github.io/2014/08/video-integrations-showcase/</guid>
       <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>中文測試</title>
-      <link>https://kiri.github.io/2013/10/chinese-test/</link>
+      <link>https://Suzku.github.io/2013/10/chinese-test/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2013/10/chinese-test/</guid>
+      <guid>https://Suzku.github.io/2013/10/chinese-test/</guid>
       <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Image gallery showcase</title>
-      <link>https://kiri.github.io/2013/02/image-gallery-showcase/</link>
+      <link>https://Suzku.github.io/2013/02/image-gallery-showcase/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2013/02/image-gallery-showcase/</guid>
+      <guid>https://Suzku.github.io/2013/02/image-gallery-showcase/</guid>
       <description>&lt;p&gt;And here is the image gallery!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>日本語テスト</title>
-      <link>https://kiri.github.io/2013/01/japanese-test/</link>
+      <link>https://Suzku.github.io/2013/01/japanese-test/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://kiri.github.io/2013/01/japanese-test/</guid>
+      <guid>https://Suzku.github.io/2013/01/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
 &lt;/p&gt;</description>
     </item>
